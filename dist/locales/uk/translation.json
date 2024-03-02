@@ -1,217 +1,217 @@
 {
 	"maintenance": {
-		"title": "У нас технические работы",
-		"subTitle": "Вернитесь пожалуйста чуть позже"
+		"title": "Наш магазин працює в обслуговуванні",
+		"subTitle": "Заходьте, будь ласка, пізніше"
 	},
 	"initializingError": {
-		"title": "Ошибка при инициализации",
-		"description": "Попробуйте обновить страницу"
+		"title": "Помилка ініціалізації",
+		"description": "Спробуйте оновити сторінку"
 	},
 	"ban": {
-		"title": "Магазин заблокирован"
+		"title": "Магазин заблоковано"
 	},
 	"timeout": {
-		"error": "Попробуйте позже"
+		"error": "Спробуйте пізніше"
 	},
 	"toasts": {
-		"error": "Ошибка",
-		"success": "Успешно"
+		"error": "Помилка",
+		"success": "Успішно"
 	},
 	"cookie": {
-		"text": "Мы используем куки",
+		"text": "Ми використовуємо файли cookie",
 		"button": "Ок"
 	},
 	"сopyright": {
-		"text": "Сайт создан в системе"
+		"text": "Сайт створено в системі"
 	},
 	"welcomeSelectServer": {
-		"title": "Выберите ваш основной сервер",
-		"accept": "Выбрать",
-		"useNotSelectServer": "Выберите сервер чтобы продолжить пользоваться сервисом",
-		"description": "Поскольку мы не нашли у вас основной сервер, вы можете выбрать его самостоятельно. Выберите сервер ниже, это поможет вам удобнее совершать покупки. Изменить сервер можно у себя в профиле после авторизации."
+		"title": "Виберіть основний сервер",
+		"accept": "Вибрати",
+		"useNotSelectServer": "Виберіть сервер, щоб продовжити використовувати сервіс",
+		"description": "Оскільки ми не знайшли ваш основний сервер, ви можете вибрати його самостійно. Виберіть сервер нижче, це допоможе вам легше робити покупки. Змінити сервер можна у вашому профілі після авторизації."
 	},
 	"header": {
 		"shop": "Магазин",
-		"info": "Информация",
+		"info": "Інформація",
 		"langs": {
 			"ru": "Русский",
 			"en": "English",
 			"uk": "Український"
 		},
 		"playerBalanceModal": {
-			"topUpBalance": "Пополнение баланса",
-			"topUpBtn": "Пополнить",
-			"inputPlaceholder": "Сумма",
-			"inputLabel": "Сумма",
-			"close": "Закрыть",
+			"topUpBalance": "Поповнити баланс",
+			"topUpBtn": "Поповнити",
+			"inputPlaceholder": "Сума",
+			"inputLabel": "Сума",
+			"close": "Закрити",
 			"errors": {
-				"amountIsNotNumber": "Сумма не является числовым значением"
+				"amountIsNotNumber": "Сума не є числовим значенням"
 			}
 		},
-		"playerProfile": "Профиль",
-		"playerLogin": "Войти"
+		"playerProfile": "Профіль",
+		"playerLogin": "Увійти"
 	},
 	"widgets": {
 		"monitoring": {
-			"title": "Общий онлайн:",
-			"offline": "Выключен",
-			"connectCopied": "Команда для подключения к серверу скопирована в буфер обмена. Используйте ее в консоли игры (клавиша \"F1\"), если автоматическое подключение не сработает.",
-			"playing": "Играют:",
-			"joining": "Присоединяются:",
-			"inQueue": "В очереди:",
-			"serversIsEmpty": "Серверов нет"
+			"title": "Загальний онлайн:",
+			"offline": "Вимкнений",
+			"connectCopied": "Команда для підключення до сервера скопійована в буфер обміну. Використовуйте її в консолі гри (клавіша \"F1\"), якщо автоматичне підключення не працює.",
+			"playing": "Грають:",
+			"joining": "Приєднуються:",
+			"inQueue": "В черзі:",
+			"serversIsEmpty": "Серверів немає"
 		},
 		"socials": {
-			"subscribeBtn": "Подписаться"
+			"subscribeBtn": "Підписатися"
 		},
 		"errors": {
-			"getWidgetsError": "Произошла ошибка при получении виджетов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"getMonitoringError": "Произошла ошибка при получении мониторинга. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"getWidgetsError": "Виникла помилка при отриманні віджетів. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"getMonitoringError": "Виникла помилка при отриманні мооніторингу. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"information": {
 		"seo": {
-			"title": "{{shopName}} - Информация",
-			"description": "Информация {{shopName}}"
+			"title": "{{shopName}} - Інформація",
+			"description": "Інформація {{shopName}}"
 		},
-		"openBtn": "Ознакомится"
+		"openBtn": "Ознайомитися"
 	},
 	"shop": {
-		"needAuth": "Необходима авторизация",
+		"needAuth": "Необхідна авторизація",
 		"title": "Магазин",
 		"seo": {
 			"title": "{{shopName}} - Магазин",
-			"description": "Магазин внутриигровых товаров проекта {{shopName}} по игре {{gameName}}. Присоединяйся к нам и играй на лучшем проекте игры {{gameName}}!"
+			"description": "Магазин внутрішніх ігорних товарів проекту {{shopName}} за ігорою {{gameName}}. Приєднуйтесь до нас і грайте на найкращому проекті ігри {{gameName}}!"
 		},
 		"filters": {
-			"searchPlaceholder": "Введите название товара..."
+			"searchPlaceholder": "Введіть назву товару..."
 		},
 		"products": {
 			"kitsTitleCooldown": "Перезарядка",
 			"kitsTitleCommand": "Команда",
-			"kitsTitle": "Наборы",
-			"openKit": "Открыть",
-			"notFound": "Данных нет",
-			"free": "Бесплатно",
+			"kitsTitle": "Набори",
+			"openKit": "Відкрити",
+			"notFound": "Дані відсутні",
+			"free": "Безкоштовно",
 			"server": "Сервер",
-			"amount": "Сумма",
+			"amount": "Сума",
 			"productItem": "Товар",
-			"count": "Количество",
-			"action": "Действие",
-			"selectServer": "Выберите сервер",
-			"kitContains": "Состав набора",
-			"win": "Вам выпало \"{{name}} x{{count}}\"",
+			"count": "Кількість",
+			"action": "Дія",
+			"selectServer": "Виберіть сервер",
+			"kitContains": "Склад набору",
+			"win": "Вам випало \"{{name}} x{{count}}\"",
 			"actionTypes": {
-				"inCart": "Выдать в корзину",
-				"instant": "Выдать сразу"
+				"inCart": "Видати в кошик",
+				"instant": "Видати зараз"
 			},
-			"productAvailability": "Товар доступен к покупке на всех серверах",
-			"giveText": "Чтобы забрать товар, введите команду /store в чат",
-			"get": "Получить",
-			"close": "Закрыть",
+			"productAvailability": "Товар доступний для покупки на всіх серверах",
+			"giveText": "Щоб отримати товар, введіть команду /store в чат",
+			"get": "Отримати",
+			"close": "Закрити",
 			"errors": {
-				"getProductsError": "Произошла ошибка при получении продуктов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-				"purchaseError": "Произошла ошибка при покупке товара. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-				"noServerError": "Выберите сервер перед покупкой",
-				"noActionError": "Выберите действие перед покупкой"
+				"getProductsError": "Виникла помилка при отриманні продуктів. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+				"purchaseError": "Виникла помилка при покупці товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+				"noServerError": "Виберіть сервер перед покупкою",
+				"noActionError": "Виберіть дію перед покупкою"
 			}
 		}
 	},
 	"profile": {
 		"errors": {
-			"revealPlayerError": "Произошла ошибка при идентификации игрока. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"logoutPlayerError": "Произошла ошибка при попытке выйти из аккаунта. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"revealPlayerError": "Виникла помилка при ідентифікації гравця. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"logoutPlayerError": "Виникла помилка при спробі вийти з облікового запису. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"profileNav": {
-		"profile": "Профиль",
-		"cart": "Корзина",
-		"history": "История",
-		"logout": "Выход"
+		"profile": "Профіль",
+		"cart": "Кошик",
+		"history": "Історія",
+		"logout": "Вихід"
 	},
 	"profileInfo": {
-		"mainTitle": "Профиль",
-		"blockTitleInfo": "Информация",
-		"blockTitleTimedDiscount": "Временная скидка",
-		"blockTitlePromocode": "Использование промокода",
-		"blockTitleSelectDefaultServer": "Сервер по умолчанию",
+		"mainTitle": "Профіль",
+		"blockTitleInfo": "Інформація",
+		"blockTitleTimedDiscount": "Часова знижка",
+		"blockTitlePromocode": "Використання промокоду",
+		"blockTitleSelectDefaultServer": "Сервер за замовчуванням",
 		"infoTitleBalance": "Баланс",
-		"infoTitlePersonalDiscount": "Персональная скидка",
-		"infoTitlePromocodeDiscount": "Скидка по промокоду",
-		"inputPromocodePlaceholder": "Имя промокода",
-		"selectDefaultServerPlaceholder": "Выберите сервер по умолчанию",
-		"usePromocodeBtn": "Применить",
-		"discountTime": "Ваша скидка по промокоду на {{discount}}% заканчивается {{end_date, datetime}}\nПри покупке товара на сумму 100 RUB, Вы оплатите {{pay_sum}} {{currency}}.",
-		"promocodeNameIsEmpty": "Имя промокода не может быть пустым",
-		"promocodeRewardTitle": "Вы получили",
-		"promocodeRewardDescription": "Вы получили",
-		"promocodeRewardKitContains": "Содержимое набора:",
-		"closeBtn": "Закрыть",
-		"giveText": "Чтобы забрать товар, введите команду /store в чат",
+		"infoTitlePersonalDiscount": "Особлива знижка",
+		"infoTitlePromocodeDiscount": "Знижка за промокодом",
+		"inputPromocodePlaceholder": "Ім'я промокоду",
+		"selectDefaultServerPlaceholder": "Виберіть сервер за замовчуванням",
+		"usePromocodeBtn": "Застосувати",
+		"discountTime": "Ваша знижка за промокодом на {{discount}}% закінчується {{end_date, datetime}}\nПри покупці товару на суму 100 RUB, Ви оплачуєте {{pay_sum}} {{currency}}.",
+		"promocodeNameIsEmpty": "Ім'я промокоду не може бути порожнім",
+		"promocodeRewardTitle": "Ви отримали",
+		"promocodeRewardDescription": "Ви отримали",
+		"promocodeRewardKitContains": "Зміст набору:",
+		"closeBtn": "Закрити",
+		"giveText": "Щоб отримати товар, введіть команду /store в чат",
 		"seo": {
-			"title": "{{shopName}} - Профиль",
-			"description": "{{shopName}} - Профиль."
+			"title": "{{shopName}} - Профіль",
+			"description": "{{shopName}} - Профіль."
 		},
 		"errors": {
-			"findPromocodeProductError": "Не удалось найти товар по промокоду. Сообщите администратору",
-			"usePromocodeError": "Произошла ошибка при использовании промокода. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"findPromocodeProductError": "Не вдалося знайти товар за промокодом. Повідомте адміністратору",
+			"usePromocodeError": "Виникла помилка при використанні промокоду. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"profileBasket": {
-		"mainTitle": "Корзина",
-		"modalMainTitle": "Сменить сервер",
-		"refundBtn": "Вернуть",
-		"changeServerBtn": "Сменить сервер",
-		"giveNowBtn": "Выдать сейчас",
+		"mainTitle": "Кошик",
+		"modalMainTitle": "Змінити сервер",
+		"refundBtn": "Повернути",
+		"changeServerBtn": "Змінити сервер",
+		"giveNowBtn": "Видати зараз",
 		"tableTitleProduct": "Товар",
 		"tableTitleServer": "Сервер",
-		"itemsNotFound": "Нет данных",
-		"serverSelectorAllServers": "Все сервера",
-		"changeServerSelectorPlaceholder": "Выберите сервер",
-		"inputSearchPlaceholder": "Название товара...",
-		"itemBlocked": "Получение заблокировано до {{end_date, datetime}}",
+		"itemsNotFound": "Дані відсутні",
+		"serverSelectorAllServers": "Всі сервери",
+		"changeServerSelectorPlaceholder": "Виберіть сервер",
+		"inputSearchPlaceholder": "Назва товару...",
+		"itemBlocked": "Отримання заблоковано до {{end_date, datetime}}",
 		"server": "Сервер:",
-		"closeBtn": "Закрыть",
-		"changeBtn": "Сменить",
-		"changedOnSameServer": "Нельзя сменить сервер на тот же",
-		"changedServerIsNull": "Выберите сервер",
+		"closeBtn": "Закрити",
+		"changeBtn": "Змінити",
+		"changedOnSameServer": "Не можна змінити сервер на той самий",
+		"changedServerIsNull": "Виберіть сервер",
 		"seo": {
-			"title": "{{shopName}} - Корзина",
-			"description": "{{shopName}} - Корзина."
+			"title": "{{shopName}} - Кошик",
+			"description": "{{shopName}} - Кошик."
 		},
 		"errors": {
-			"getPlayerBasketError": "Произошла ошибка при получении корзины. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"changeBasketItemServerError": "Произошла ошибка при смене сервера товара. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"makeBasketItemInstantError": "Произошла ошибка при выдачи товара. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"refundBasketItemError": "Произошла ошибка при вернуть товар. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"getPlayerBasketError": "Виникла помилка при отриманні кошика. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"changeBasketItemServerError": "Виникла помилка при зміні сервера товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"makeBasketItemInstantError": "Виникла помилка при видачі товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"refundBasketItemError": "Виникла помилка при поверненні товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"profileHistory": {
-		"mainTitle": "История",
+		"mainTitle": "Історія",
 		"tableTitleData": "Дата",
-		"tableTitleDetails": "Детали",
-		"tableTitleSum": "Сумма",
-		"itemsNotFound": "Нет данных",
+		"tableTitleDetails": "Деталі",
+		"tableTitleSum": "Сума",
+		"itemsNotFound": "Дані відсутні",
 		"dateBoilerplate": "{{end_date, datetime}}",
-		"inputSearchPlaceholder": "Детали истории...",
+		"inputSearchPlaceholder": "Деталі історії...",
 		"seo": {
-			"title": "{{shopName}} - История",
-			"description": "{{shopName}} - История."
+			"title": "{{shopName}} - Історія",
+			"description": "{{shopName}} - Історія."
 		},
 		"errors": {
-			"getPlayerHistoryError": "Произошла ошибка при получении истории. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"getPlayerHistoryError": "Виникла помилка при отриманні історії. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"shopInfo": {
 		"errors": {
-			"getInfoError": "Произошла ошибка при получении информации о магазине. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"getInfoError": "Виникла помилка при отриманні інформації про магазин. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"shopFooter": {
-		"text": "Размещенная на настоящем сайте информация носит исключительно информационный характер и ни при каких условиях не является публичной офертой, определяемой положениями ч. 2 ст. 437 Гражданского кодекса Российской Федерации.",
+		"text": "Опублікована на наявному сайті інформація носить виключно інформаційний характер і не є публічною офертою, визначеним положеннями ч. 2 ст. 437 Закону про граждан України.",
 		"links": {
-			"agreement": "Пользовательское соглашение",
-			"privacy": "Политика конфиденциальности",
+			"agreement": "Угода користувача",
+			"privacy": "Політика конфіденційності",
 			"mail": "help@gamestores.ru"
 		}
 	},
@@ -221,50 +221,50 @@
 			"description": "{{shopName}} - {{pageName}}."
 		},
 		"errors": {
-			"linkNotFound": "Ссылка не найдена",
-			"getPageError": "Произошла ошибка при получении информации о странице. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"linkNotFound": "Посилання не знайдено",
+			"getPageError": "Виникла помилка при отриманні інформації про сторінку. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	},
 	"support": {
-		"support": "Поддержка",
-		"notFoundTickets": "Тикетов не найдено",
-		"createNewTicket": "Новое сообщение",
-		"message": "Сообщение",
-		"yourMessage": "Ваше сообщение",
-		"markAsClosed": "Отметить закрытым",
-		"update": "Обновить",
-		"close": "Закрыть",
-		"send": "Отправить",
+		"support": "Підтримка",
+		"notFoundTickets": "Тикетов не знайдено",
+		"createNewTicket": "Нове повідомлення",
+		"message": "Повідомлення",
+		"yourMessage": "Ваше повідомлення",
+		"markAsClosed": "Позначити закритим",
+		"update": "Оновити",
+		"close": "Закрити",
+		"send": "Відправити",
 		"theme": "Тема",
-		"category": "Категория",
+		"category": "Категорія",
 		"server": "Сервер",
-		"create": "Создать",
-		"lastAnswer": "Последний ответ",
+		"create": "Створити",
+		"lastAnswer": "Останній відповідь",
 		"status": "Статус",
-		"categoryNotSelected": "Категория не выбрана",
-		"serverNotSelected": "Сервер не выбран",
+		"categoryNotSelected": "Категорія не вибрана",
+		"serverNotSelected": "Сервер не вибраний",
 		"answerDateBoilerplate": "{{end_date, datetime}}",
-		"newMessage": "Новое сообщение",
-		"enterMessage": "Введите сообщение",
-		"messageIsEmpty": "Сообщение пустое",
-		"themeIsEmpty": "Тема пустая",
-		"needAuth": "Необходимо авторизоваться",
+		"newMessage": "Нове повідомлення",
+		"enterMessage": "Введіть повідомлення",
+		"messageIsEmpty": "Повідомлення порожне",
+		"themeIsEmpty": "Тема порожня",
+		"needAuth": "Необхідно авторизуватися",
 		"seo": {
-			"title": "{{shopName}} - Поддержка",
-			"description": "Онлайн поддержка {{shopName}}."
+			"title": "{{shopName}} - Підтримка",
+			"description": "Онлайн підтримка {{shopName}}."
 		},
 		"statuses": {
-			"open": "Открыт",
-			"closed": "Закрыт",
-			"wait": "Ожидайте",
-			"progress": "Отвечен"
+			"open": "Відкритий",
+			"closed": "Закритий",
+			"wait": "Очікуйте",
+			"progress": "Відповідь отримано"
 		},
 		"errors": {
-			"getTicketsError": "Произошла ошибка при получении тикетов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"createTicketsError": "Произошла ошибка при создания тикета. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"sendMessageTicketError": "Произошла ошибка при отправке сообщения. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"closeTicketError": "Произошла ошибка при закрытии тикета. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-			"getTotalMessagesCountError": "Произошла ошибка при получении количества сообщений. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
+			"getTicketsError": "Виникла помилка при отриманні тикетів. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"createTicketsError": "Виникла помилка при створенні тикета. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"sendMessageTicketError": "Виникла помилка при відправці повідомлення. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"closeTicketError": "Виникла помилка при закритті тикета. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"getTotalMessagesCountError": "Виникла помилка при отриманні кількості повідомлень. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
 		}
 	}
 }
