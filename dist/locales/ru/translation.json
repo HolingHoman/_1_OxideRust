@@ -64,6 +64,11 @@
 		"socials": {
 			"subscribeBtn": "Подписаться"
 		},
+		"info": {
+			"close": "Close",
+			"wipeblock": "WipeBlock",
+			"rules": "Rules"
+		},
 		"errors": {
 			"getWidgetsError": "Произошла ошибка при получении виджетов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
 			"getMonitoringError": "Произошла ошибка при получении мониторинга. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
@@ -91,6 +96,7 @@
 			"kitsTitleCommand": "Команда",
 			"kitsTitle": "Наборы",
 			"openKit": "Открыть",
+			"bonusMore": "Подробнее",
 			"notFound": "Данных нет",
 			"free": "Бесплатно",
 			"server": "Сервер",
