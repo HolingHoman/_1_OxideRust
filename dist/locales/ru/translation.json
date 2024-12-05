@@ -65,9 +65,9 @@
 			"subscribeBtn": "Подписаться"
 		},
 		"info": {
-			"close": "Close",
-			"wipeblock": "WipeBlock",
-			"rules": "Rules"
+			"close": "Закрыть",
+			"wipeblock": "Вайпблок",
+			"rules": "Правила"
 		},
 		"errors": {
 			"getWidgetsError": "Произошла ошибка при получении виджетов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",

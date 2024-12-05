@@ -66,9 +66,9 @@
 			"subscribeBtn": "Подписаться"
 		},
 		"info": {
-			"close": "Закрыть",
-			"wipeblock": "Вайпблок",
-			"rules": "Правила"
+			"close": "Close",
+			"wipeblock": "WipeBlock",
+			"rules": "Rules"
 		},
 		"errors": {
 			"getWidgetsError": "An error occurred while retrieving widgets. Please try again later or contact the administrator. (Error: {{error}} )",
